@@ -25,5 +25,5 @@ After you've created your contribution in the feature branch e.g **feature/user-
 
 
 ### Deployment
-After changes are merged, the code in the develop branch is deployed to vercel to created a test deployment link for project. Here is the deployment link for the current state of the project;
+After changes are merged, the code in the develop branch is deployed to vercel to created a test deployment link for project. [Here is the deployment link](https://social-impact-project.vercel.app/) for the current state of the project.
 
